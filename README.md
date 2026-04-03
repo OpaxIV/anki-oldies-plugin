@@ -1,2 +1,2 @@
 # anki-oldies-plugin
-Repository containing the code for my anki addon.
+Repository containing the code for the anki leech and retirement addon.
